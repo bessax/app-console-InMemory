@@ -3,7 +3,7 @@
 
 ## 📚 Sobre o projeto
 
-Este projeto mostra um crud básico usando o EntityFrameworkCore InMemory, para mostrar algumas possibilidades de utilização do projeto console.
+Este projeto apresenta um crud básico usando o EntityFrameworkCore InMemory, para mostrar algumas possibilidades de utilização do projeto console.
 
 ## 📝 Conteúdo
 
